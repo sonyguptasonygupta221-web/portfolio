@@ -1,5 +1,5 @@
 
-# Sona - Portfolio
+#sonyguptasonygupta- Portfolio
 Live Link: https://Sona-frontend.github.io/portfolio
 Tech: HTML, CSS, Tailwind, JavaScript, React
 
