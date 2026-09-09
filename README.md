@@ -1,6 +1,6 @@
 
 #sonyguptasonygupta221- Portfolio
-Live Link: https://Sonygupta-frontend.github.io/portfolio
+Live Link: https://Sonyguptasonygupta221-frontend.github.io/portfolio
 Tech: HTML, CSS, Tailwind, JavaScript, React
 
 Hi, I'm sonyguptasonygupta221- Frontend Developer Intern
