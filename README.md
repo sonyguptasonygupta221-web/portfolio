@@ -1,6 +1,6 @@
 
 #sonyguptasonygupta221-web Portfolio
-Live Link: https://Sonyguptasonygupta221-web.github.io/portfolio
+Live Link: https://sonyguptasonygupta221-web.github.io/portfolio
 Tech: HTML, CSS, Tailwind, JavaScript, React
 
 Hi, I'm sonyguptasonygupta221-web
