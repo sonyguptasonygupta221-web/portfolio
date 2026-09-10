@@ -6,7 +6,7 @@ Tech: HTML, CSS, Tailwind, JavaScript, React
 Hi, I'm sonyguptasonygupta221-web
 - 🌱 Learning: JavaScript & React
 - 👩‍💻 Portfolio: https://sonyguptasonygupta221-web.github.io/portfolio
-- 📫 Contact: [sonyguptasonygupta221@gmail.com]
+- 📫 Contact: sonyguptasonygupta221@gmail.com
 
 Features:
 - Responsive Design
